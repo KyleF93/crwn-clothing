@@ -9,7 +9,6 @@ import SignInAndSignUp from './pages/signin-and-signup/signin-and-signup.compone
 
 function App() {
   return (
-
     <div>
       <Header />
       <Switch>
@@ -19,6 +18,5 @@ function App() {
       </Switch>
     </div>
   )
-} 
-
+}
 export default App;
